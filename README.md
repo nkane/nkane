@@ -7,7 +7,7 @@ A self-taught Software Engineer with a passion for building robust and scalable 
 - **Frameworks & Libraries**: React, Next.js, Node.js, and FastAPI
 - **Tools &  Platforoms**: GitHub, Docker, Kubernetes, AWS, and GCP
 
-## Projects📚
+## Projects 📚
 - [Intro to Programming: C](https://www.youtube.com/watch?v=axl96vCnAuI&list=PLgfw5lqJ3h8rWUBm0r6qoiEwhJubepp_h): Introduction to programming using the C language, approximately 10 hours.
 - [8-Bit Breadboard Computer](https://www.youtube.com/watch?v=axl96vCnAuI&list=PLgfw5lqJ3h8rWUBm0r6qoiEwhJubepp_h): Building an 8-bit breadboard computer to learn more about computer architecture.
 
