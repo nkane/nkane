@@ -17,3 +17,7 @@ A self-taught Software Engineer with a passion for building robust and scalable 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nkane&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nkane&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nkane&theme=dracula&utcOffset=8)
+
+
+## Connect with Me 📬
+🔗 [LinkedIn](https://www.linkedin.com/in/nkanedev/)
