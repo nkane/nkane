@@ -9,7 +9,7 @@ A self-taught Software Engineer with a passion for building robust and scalable 
 
 ## Projects📚
 - [Intro to Programming: C](https://www.youtube.com/watch?v=axl96vCnAuI&list=PLgfw5lqJ3h8rWUBm0r6qoiEwhJubepp_h): Introduction to programming using the C language, approximately 10 hours.
-- [8-bit Breadboard Computer](https://www.youtube.com/watch?v=axl96vCnAuI&list=PLgfw5lqJ3h8rWUBm0r6qoiEwhJubepp_h): Building an 8-bit breadboard computer to learn more about computer architecture.
+- [8-Bit Breadboard Computer](https://www.youtube.com/watch?v=axl96vCnAuI&list=PLgfw5lqJ3h8rWUBm0r6qoiEwhJubepp_h): Building an 8-bit breadboard computer to learn more about computer architecture.
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nkane&theme=dracula)
